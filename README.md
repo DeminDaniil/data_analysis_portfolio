@@ -89,7 +89,7 @@ Airbnb - американская компания, управляющая он�
 
 <b>Если не открывается предыдущий документ: </b>[Код в Google Colab](https://colab.research.google.com/drive/1J9i7IDtR_4kWOetgTa6mDadCmakYJ5r0?usp=sharing#scrollTo=b0a970f1)
 
-<b> Итоговая презентация: <b>[Google docs](https://docs.google.com/presentation/d/1bnqMKVv9HuubyNwNaoN4qh_TTxScVWRb/edit#slide=id.p10)
+<b> Итоговая презентация: </b>[Google docs](https://docs.google.com/presentation/d/1bnqMKVv9HuubyNwNaoN4qh_TTxScVWRb/edit#slide=id.p10)
 
 
 Описание: Суть итогового задания заключалась в том, что мне надо было:
